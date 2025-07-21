@@ -1,5 +1,6 @@
 # Store-Annual-Report
 MS Excel dashboard (Power Pivot, ETL)
+
 INSIGHTS:
 Fashion-focused SKUs suggest a strong affinity in ethnic and formal wear—Hence, track product-level conversions for deeper insights.
 Amazon dominates order flow, but Flipkart and Myntra are competitive. Hence, they need great platforms for campaign optimisation.
